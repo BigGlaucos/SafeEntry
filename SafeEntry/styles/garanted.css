@@ -1,0 +1,35 @@
+body {
+ background: var(--a-ceito, linear-gradient(135deg, #6EC475 40.63%, #60AB66 100%));
+ overflow-y: hidden;
+    animation: 1s ease-out 0s 1 slideInFromLeft;
+}
+
+@keyframes slideInFromLeft {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+.container{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+
+.wrapper{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.wrapper p {
+    color: #C7FF80;
+font-family: Poppins;
+font-size: 80px;
+font-weight: 700;
+margin: 0 auto;
+}
