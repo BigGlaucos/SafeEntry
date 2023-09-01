@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
 body {
  background: var(--a-ceito, linear-gradient(135deg, #6EC475 40.63%, #60AB66 100%));
  overflow-y: hidden;
