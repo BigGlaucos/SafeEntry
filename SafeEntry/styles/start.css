@@ -54,10 +54,7 @@ align-items: center;
 .wrapper p {
 color: rgba(255, 255, 255, 0.75);
 font-family: Poppins;
-font-size: 40px;
-font-weight: 700;
+font-size: 45px;
+font-weight: 900;
 }
 
-@keyframes entra { 
-    
-}
