@@ -41,9 +41,7 @@ background-clip: text;
 font-family: Poppins;
 font-size: 90px;
 font-weight: 700;
-position:absolute;
-top: 63px;
-right: 153px;
+position: center;
 }
 
 .wrapper{
